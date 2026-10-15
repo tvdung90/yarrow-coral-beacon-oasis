@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "What's Missing?",
+      "hasCanvas": false,
+      "bodyTextLen": 299,
+      "bodyTextHash": "2faeacdcb81a7406aa7398b9b05d8d9a1030a2eb17ca5adeb7d6c24b4359ba12",
+      "bodyTextPrefix": "PREPOSITIONS OF PLACE What’s Missing? Look closely! Which word r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "What's Missing?",
+      "hasCanvas": false,
+      "bodyTextLen": 299,
+      "bodyTextHash": "2faeacdcb81a7406aa7398b9b05d8d9a1030a2eb17ca5adeb7d6c24b4359ba12",
+      "bodyTextPrefix": "PREPOSITIONS OF PLACE What’s Missing? Look closely! Which word r",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
